@@ -9,9 +9,9 @@ Dilerseniz Youtube'dan videolara ulaşabilirsiniz.
 <hr/>
 Check this board: `Daha detaylı bilgi istiyorsanız burayı inceleyebilirsiniz.`
   
-- [Trello](https://trello.com/b/VMTJJehJ/fiyasko-blog)
+- [Trello](https://trello.com/)
 <hr>
-Total code lines: https://api.github.com/repos/Teoory/deki-fashion-app-1/languages
+Total code lines: https://api.github.com/repos/Teoory/deki-fashion-app/languages
 <hr>
 
 *Need to add Mongodb server link*
